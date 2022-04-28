@@ -23,7 +23,7 @@
 
 > ***China University of Geosciences, Wuhan***    (Sept. 2017 - June. 2021)
 >
-> - Bachelor of Automation major    Grade: 3.97/5 
+> - Bachelor of Automation major. Grade: 3.97/5 
 
 > ***Beijing Institute of Technology***    (Sept. 2021 - June. 2024)
 >
@@ -50,9 +50,9 @@
 ## PROFESSIONAL SKILLS
 ---
 
-> - Certificate Qualification: CET-6, National Certificate in Computing Level 2
-> - Programming Technology: Python, C, C++, Matlab, Bash
-> - Office Skills: Word, Excel, PowerPoint, Visio, Latex, Markdown
+> - **Certificate Qualification:** CET-6, National Certificate in Computing Level 2
+> - **Programming Technology:** Python, C, C++, Matlab, Bash
+> - **Office Skills:** Word, Excel, PowerPoint, Visio, Latex, Markdown
 
 ## AWARD&HONORS
 ---

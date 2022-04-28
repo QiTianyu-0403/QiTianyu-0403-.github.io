@@ -1,13 +1,15 @@
-## Welcome to GitHub Pages
+## PERSONNAL DATE
+---
 
 <div>
 <table border="0">
   <tr>
     <td width="75%">
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <h1>Tianyu Qi (齐天宇)</h1>
+      <p><b>Born: Apr. 1999</b></p>
+      <p><b>Policital Status：Party member of CPC</b></p>
+      <p><b>Work Place: Beijing, China</b></p>
+      <p><b>Email: qitianyuqty@163.com</b></p>
     </td>
     <td width="25%">
       <img src="/TianyuQi.jpg" width="100%">      
@@ -16,6 +18,50 @@
 </table>
 </div>
 
-## QiTianyu
+## EDUCATION
+---
 
-hahaha
+> ***China University of Geosciences, Wuhan***    (Sept. 2017 - June. 2021)
+>
+> - Bachelor of Automation major    Grade: 3.97/5 
+
+> ***Beijing Institute of Technology***    (Sept. 2021 - June. 2024)
+>
+> - Master of Automation major
+
+## EXPERIENCE
+---
+
+> ***Taiji Computer Corporation Limited***    (June. 2021 - Sept. 2021)
+>
+> - The intern of the IoT technology department
+> - Responsible for the deployment of the back-end environment of the IoT platform and some product prototype design
+
+> ***Data-driven cloud data center intelligent management technology and platform***    (Sept. 2021 - Dec. 2021)
+>
+> - Supported by the National Key Research and Development Program of China
+> - Responsible for the optimization of the task graph classification algorithm in the scheduling algorithm
+
+> ***Research on key methods of incentive mechanism for federated learning sustainable training***    (Dec. 2021 - Present)
+>
+> - Project supported by the Young Scientists Fund of the National Natural Science Foundation of China
+> - Responsible for the optimization research of federated learning algorithm based on reinforcement learning
+
+## PROFESSIONAL SKILLS
+---
+
+> - Certificate Qualification: CET-6, National Certificate in Computing Level 2
+> - Programming Technology: Python, C, C++, Matlab, Bash
+> - Office Skills: Word, Excel, PowerPoint, Visio, Latex, Markdown
+
+## AWARD&HONORS
+---
+
+> - Principle's scholarship of China University of Geosciences, Wuhan    (Dec. 2020)
+> - Outstanding graduates of China University of Geosciences, Wuhan    (June. 2021)
+
+## PUBLICATIONS
+---
+
+> - T. Qi, H. Zang, Y. Zhan and Y. Xia, "The Research on Approximating the Real Network Degree Distribution Level Based on DCSBM," 2022 41th Chinese Control Conference (CCC), 2022.
+

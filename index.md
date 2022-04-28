@@ -1,9 +1,9 @@
 ## Welcome to GitHub Pages
 
-<table border="0" height=“200”>
+<table border="1" height=“200”>
   <tr>
     <td width="85%">
-      <h2>张三</h2>
+      <h2>TianyuQi</h2>
       <p><b>硕士研究生</b></p>
       <p><b>××大学××学院</b></p>
       <p><b>邮箱：1234567789@qq.com</b></p>

@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
 
+<div>
 <table border="0">
   <tr>
     <td width="85%">
@@ -13,6 +14,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ## QiTianyu
 

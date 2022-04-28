@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<table border="1" height=“200”>
+<table border="0" height="200">
   <tr>
     <td width="85%">
       <h2>TianyuQi</h2>

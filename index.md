@@ -58,7 +58,8 @@
 ---
 
 > - Principle's scholarship of China University of Geosciences, Wuhan    (Dec. 2020)
-> - Outstanding graduates of China University of Geosciences, Wuhan    (June. 2021)
+> - Outstanding graduates of China University of Geosciences, Wuhan    (Jun. 2021)
+> - First prize of China Computer Game Competition    (Aug. 2022)
 
 ## PUBLICATIONS
 ---

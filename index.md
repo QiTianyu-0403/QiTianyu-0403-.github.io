@@ -27,7 +27,7 @@
 
 > ***Beijing Institute of Technology***    (Sept. 2021 - June. 2024)
 >
-> - Master of Automation major
+> - Master of Automation major. Grade: 89.71/100
 
 ## EXPERIENCE
 ---
